@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "phrasal-aegis-412103",
+  "private_key_id": "3acc76a966abb3086973b52fa19196c45d53b6d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDuQBHbrL+NzsxE\nuZqz09KeEj3jthgzPEuaKMbjvew86BIwrOAj1po89nWGiVhb8twF4Gh3HwKiUbBC\nybkAcsKkSv15z+1WHn9D0w2DVzKFz4EWwbJ53/Eh+buNIIiNpenpcQMGIpNBmamt\nWqM2Nx2HEuWi4UQzFRhcjguyfxb4S1J3nVPfk1m2qGElgSu5GlvAaCKT5UmyUUKj\njCKjXyeKZo9cjvbKjZekfLbxK/4Fu+a7zCG+2bpOua3HuYWZ4/RBzgztpRoBzVne\n1r+Wpyq0rNyXMra7HbLshXOqzFWVZM9foCQBxtZBsMKVwv75L5f2qvyifmnnrvp9\nnvP9HtWDAgMBAAECggEAdUC/6TJ35XUAj9QegGD/tz64CcDc4R5MANcPpxaZ1JHM\nHft+pfSgXN9YkLk4bKw1v4ilMPboh3UXf48ihsdz5oJnhBMiNW91563PaTO5UCSC\n3e2/Bf8B/9wVgwufWMLuPy6Ys+TBPxg+auwABhcS556TuFkQBOndXvOjaxnj9pa8\nD6gRBbuPbcTLPzX3miSjIBSZYp8kGMSRQWYnBXZKD1eQVn7Vf8lKhI6WgVEpAuL6\nFcR4hSJDEiCjoU/QPmxRQfxOOka6swl+2pTHN5gIF2pqsKwrB0fIqDnDOcD/zPHW\nz/zAPXEslUKeqYbNceoHfRI5iMeZ0ebYL+i9CtKeLQKBgQD+tMokpu2Y+BWJEbc5\nJW5w1Q6by7WLSXxr0hBW6nIClr6I0eloXnJmhr3SrhcI2U13TDhULXSHo7ODra3c\n73MmBrAU4xclga/yqLvh8FY4g6lI7/x91KV4MrYKdPppz/he/WEoqcD182/q8KBK\nfzZmr8BOENsdk4wInlQA3/7ZPwKBgQDvdeGnBJNILUpt+UsEwYW86wK26C9POhy4\ntIKE6AzwtmqfXtQVc57QkfrjS2H+KXeLGkvm/FqOfE74Oq3x3jTBf1QE3vXQAeWt\ncDs+MaJxZnBNd+xt4ovVp4gZrBTTl1fweHESOZvL3TgXoQdEPmrbWVM/qttlnsqx\n+PAuXSkOvQKBgE8mw4KsVT2qKpcT6Epb9Xwe2ZFUtq/4QDAJcYZxCMkBK2i9Qrlq\nUEbILIkiDIp1bPtbtk2CaqoUFx8eg98akkAI6AM1puXC7XiNMwW9eC3LzHmcCmzX\n/iviJmwNehwTwu1R9DV8uzgzVF5ANK+x5Kf4idw4pL8GMQgkm5pCAaJlAoGAJD/j\nHgZ6SUXZ65X+fkTRewzUh13Us5inemqRC4+ZTeM/dsrDLlAnbYl7wmbJ+dDLMPqV\nHO18w+8bgUZYyLGLqPMeg/JAofF3lG7V+Q9IeQQ54fBSkTvnUTugRcqgCHvzqwqA\ni3K/G/hsIl+VGwab5IK8MHor5lFIe/KkYVBnA70CgYEAyyo2qNM7CyKkehw6IKyD\noaVgnJCagjeNQTs2Qo01VxHbN/KoVtLB6MwgttnbqmeO9RqKFt+7wbuWYELMLgFL\nvdxi9khZ9CJb3OxfMZcqxhHA/qLCJNANbQEcRRu/U1MdfCu4FiyHL6QPqN0A8bpl\nMWr5ck9UsEc5dGKC9fWHPRc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud2@phrasal-aegis-412103.iam.gserviceaccount.com",
+  "client_id": "100065395845758551243",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud2%40phrasal-aegis-412103.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
