@@ -5,7 +5,7 @@ import vertexai
 from vertexai.language_models import TextGenerationModel
 from google.oauth2.service_account import Credentials
 
-key_path = 'key_path/phrasal-aegis-412103-3acc76a966ab.json'
+key_path = 'KEY_PATH'
 credentials = Credentials.from_service_account_file(key_path, scopes=['https://www.googleapis.com/auth/cloud-platform'])
 
 vertexai.init(project="phrasal-aegis-412103", location="asia-northeast3", credentials=credentials)
